@@ -30,6 +30,7 @@ In my free time a dable in frontend development and learning different programmi
 
 ## Stats
 ![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedx21dragon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedx21dragon&show_icons=true&locale=en&layout=compact" alt="fedx21dragon" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
