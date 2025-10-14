@@ -1,7 +1,7 @@
 # Fedx21dragon
 Hi, 
 my Name is Federico, i'm a Computer Science Student at the University of Heidelberg and this is my Github profile.
-In my free time a dable in frontend development and learning different programming langueges
+In my free time a dable in frontend development and learning different programming languages
 
 ### 🧰 Languages and Tools
 
@@ -30,7 +30,7 @@ In my free time a dable in frontend development and learning different programmi
 
 ## Stats
 ![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedx21dragon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedx21dragon&show_icons=true&locale=en&layout=compact" alt="fedx21dragon" /></p>
+![Federico's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedx21dragon&layout=compact&theme=github_dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
