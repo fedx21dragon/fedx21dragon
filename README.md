@@ -1,6 +1,6 @@
 # Fedx21dragon
 Hi, 
-my Name is Federico, i'm a Computer Science Student at the University of Heidelberg and this is my Github page.
+my Name is Federico, i'm a Computer Science Student at the University of Heidelberg and this is my Github profile.
 In my free time a dable in frontend development and learning different programming langueges
 
 ### 🧰 Languages and Tools
@@ -23,6 +23,7 @@ In my free time a dable in frontend development and learning different programmi
   <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="left" alt="macOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 <br clear="left"/>
