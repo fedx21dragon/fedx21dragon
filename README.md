@@ -28,9 +28,13 @@ In my free time a dable in frontend development and learning different programmi
 
 <br clear="left"/>
 
-## Stats
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedx21dragon&show_icons=true&count_private=true&theme=tokyonight)
-![Federico's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedx21dragon&layout=compact&theme=github_dark)
+<!--## Stats-->
+<!-- ![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedx21dragon&show_icons=true&count_private=true&theme=tokyonight)-->
+<!-- ![Federico's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedx21dragon&layout=compact&theme=github_dark)-->
+
+## Activity
+
+[![Federico's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fedx21dragon&theme=github-dark)](https://github.com/fedx21dragon)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
